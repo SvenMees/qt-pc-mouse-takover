@@ -1,0 +1,1 @@
+# qt-pc-mouse-takover
